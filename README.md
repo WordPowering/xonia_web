@@ -3,7 +3,7 @@
 #
 Checklist:
 ```diff
-- Make a app
++ Make a app | Working on it
 - Accounts
 - API
 ```
