@@ -1,9 +1,8 @@
 # Xonia Web
-#
-#
-Checklist:
-```diff
-+ Make a app | Working on it
-+ Accounts | Working on it
-+ API
-```
+
+💬 Discord but better 💬
+
+[X] Make signup/login pages
+[X] The backend
+[X] a database
+[ ] The actual app
