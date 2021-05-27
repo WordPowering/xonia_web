@@ -2,7 +2,7 @@
 
 💬 Discord but better 💬
 
-- [X] Make signup/login pages
-- [X] The backend
-- [X] a database
-- [ ] The actual app
+- [X] Signup/Login pages
+- [ ] The backend
+- [X] Firebase
+- [ ] Currently Working on the actual app
