@@ -6,3 +6,4 @@
 - [ ] The backend
 - [X] Firebase
 - [ ] Currently Working on the actual app
+- [X] Idk
