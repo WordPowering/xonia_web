@@ -21,13 +21,10 @@ JS , SCSS , CSS and HTML
 
 ```
 
-| Bot Languages |
+ Bot Language
 
 ```
-Python and Node.JS
+Node.JS
 ```
 
-# NPM Package
-
-Coming soon...
   
